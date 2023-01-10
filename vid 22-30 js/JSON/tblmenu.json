@@ -1,0 +1,20 @@
+[ 
+    {
+        "idmenu" : 9,
+        "idkategori" : 37,
+        "menu" : "Bakwan",
+        "harga" : 3000,
+        "warna" : ["merah", "kuning", "hijau"],
+        "stok" : true,
+        "keterangan" : null
+    },
+    {
+        "idmenu" : 10,
+        "idkategori" : 37,
+        "menu" : "Martabak",
+        "harga" : 15000,
+        "warna" : ["pink", "ungu", "hitam"],
+        "stok" : false,
+        "keterangan" : null
+    }
+]
